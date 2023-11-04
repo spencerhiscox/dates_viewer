@@ -1,4 +1,7 @@
-©Spencer Hiscox, 2023
+"""
+Copyright© Spencer Hiscox, 2023
+All Rights Reserved
+"""
 
 import re
 from datetime import datetime as dt
